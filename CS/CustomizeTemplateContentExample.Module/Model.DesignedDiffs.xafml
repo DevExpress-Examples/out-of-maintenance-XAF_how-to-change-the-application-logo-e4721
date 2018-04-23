@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Title="CustomizeTemplateContentExample" Logo="ExpressAppLogo">
+  <NavigationItems NavigationStyle="TreeList">
+    <Items>
+      <Item Id="@7bd9a8c4-ad64-481e-b5e7-d50b012b63bb" ViewId="DevExpress.Persistent.BaseImpl.Task_ListView" IsNewNode="True" />
+      <Item Id="@f0bbb846-b709-4f56-a536-a87b2ca29b94" ViewId="DevExpress.Persistent.BaseImpl.Person_ListView" IsNewNode="True" />
+    </Items>
+  </NavigationItems>
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="13.1.4.0" IsNewNode="True" />
+  </SchemaModules>
+</Application>
