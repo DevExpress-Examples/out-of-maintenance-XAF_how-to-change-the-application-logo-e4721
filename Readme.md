@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[Model.DesignedDiffs.xafml](./CS/CustomLogoExample.Module/Model.DesignedDiffs.xafml) (VB: [Model.DesignedDiffs.xafml](./VB/CustomLogoExample.Module/Model.DesignedDiffs.xafml))**
+* [Default.aspx.cs](./CS/CustomLogoExample.Web/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/CustomLogoExample.Web/Default.aspx.vb))
+<!-- default file list end -->
 # How to: Change the application logo
 
 
