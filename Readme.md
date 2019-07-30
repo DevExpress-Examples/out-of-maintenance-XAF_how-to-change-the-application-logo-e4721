@@ -1,6 +1,6 @@
 # How to: Change the application logo
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4721)**
+**[[Run Online]](https://codecentral.devexpress.com/e4721/)**
 <!-- run online end -->
 
 
