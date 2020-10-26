@@ -1,1 +1,0 @@
-﻿<%@ Application Codebehind="Global.asax.vb" Inherits="CustomLogoExample.Mobile.Global" Language="vb" %>
