@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Application Logo="CustomLogo">
-  <Options UIType="TabbedMDI" FormStyle="Ribbon" />
-  <SchemaModules>
-    <SchemaModule Name="SystemModule" Version="18.1.2.0" IsNewNode="True" />
-    <SchemaModule Name="SystemWindowsFormsModule" Version="18.1.2.0" IsNewNode="True" />
-  </SchemaModules>
-</Application>
